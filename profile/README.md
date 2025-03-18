@@ -25,3 +25,9 @@ While we can't open-source the platform, we can show you how we built it!
 - [Next.js](https://nextjs.org) to build everything from the ground up! It’s powerful, scalable, and lets us handle both frontend and backend without the need for a separate app.
 - [Amazon S3](http://aws.amazon.com/s3) to store static content such as article banner, profile pictures.
 - ... and more!
+
+# ⛵ Resources
+- [Legal](https://github.com/anthro-id/legal) - An extensive list of policies around our platform.
+- [Platform Changelog](https://github.com/anthro-id/changelog) - A changelog: a history of all the changes and improvements we've made to the platform.
+- [Datasets](https://github.com/anthro-id/datasets) - A public-domain datasets that we used for our platform, such as country codes list.
+- ... and more!
