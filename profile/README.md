@@ -16,7 +16,7 @@ We use GitHub to store public data (such as logos and datasets), policy changes 
 This is our way of ensuring fairness and transparency between you (as part of the furry community!) and us (as a platform).
 
 # ✍️ What's Next?
-Check out our [public roadmap (Trello)](http://redirect.anthro.id/roadmap) to see what we're building next!
+Check out our [public roadmap (Trello)](https://redirect.anthro.id/roadmap) to see what we're building next!
 
 # 📚 Stacks
 While we can't open-source the platform, we can show you how we built it!
