@@ -31,3 +31,6 @@ While we can't open-source the platform, we can show you how we built it!
 - [Platform Changelog](https://github.com/anthro-id/changelog) - A changelog: a history of all the changes and improvements we've made to the platform.
 - [Datasets](https://github.com/anthro-id/datasets) - A public-domain datasets that we used for our platform, such as country codes list.
 - ... and more!
+
+# 🐶 Community
+You can join our [Telegram Group](https://redirect.anthro.id/social/tg/group) to see more updates around our platform!
